@@ -1,4 +1,4 @@
-<h1 align="right">Hi 👋, I'm Srijan Kumar</h1>
+<h1 align="center">Hi 👋, I'm Srijan Kumar</h1>
 <h3 align="center">A passionate ML enthusiast and web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true"></img>
 
