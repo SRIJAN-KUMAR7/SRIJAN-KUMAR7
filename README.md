@@ -9,31 +9,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Engineering+Mind+%7C+Hacker+Soul;ML+Enthusiast+%7C+Full+Stack+Developer;Building+systems+that+scale;Eat+Code+Sleep+Debug+Repeat" />
 </p>
 
-<img align="right" alt="coding" width="420" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true"/>
+<img align="right" alt="coding" width="420" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif"/>
 
-<p>
-> identity --whoami
-</p>
+<p><b>&gt; identity --whoami</b></p>
 
 <ul>
 <li>🎓 B.Tech in Engineering & Computational Mechanics</li>
-<li>🤖 Machine Learning & Computer Vision enthusiast</li>
-<li>🌐 Full-Stack Web Developer</li>
-<li>⚙️ System-level thinker, building things from scratch</li>
-<li>🧩 Competitive Programming | DSA | Algorithms</li>
-<li>☕ Debugging at 2 AM is normal</li>
+<li> Machine Learning & Computer Vision enthusiast</li>
+<li> Full-Stack Web Developer</li>
+<li> System-level thinker, building from scratch</li>
+<li> Competitive Programming | DSA | Algorithms</li>
+<li> Debugging at 2 AM is expected</li>
 </ul>
 
-<p>
-> current_focus
-</p>
+<p><b>&gt; current_focus</b></p>
 
 <ul>
-<li>🧠 Machine Learning & AI systems</li>
+<li>🧠 ML & AI systems</li>
 <li>👁️ Computer Vision pipelines</li>
-<li>⚡ Scalable Full-Stack applications</li>
-<li>🛠️ Backend APIs & architectures</li>
-<li>🔐 Security & low-level system exploration</li>
+<li>⚡ Scalable full-stack apps</li>
+<li>🛠️ Backend APIs & architecture</li>
+<li>🔐 Security & low-level systems</li>
 </ul>
 
 <p align="left">
@@ -41,10 +37,10 @@
 </p>
 
 <p align="left">
-  <a href="https://codeforces.com/profile/srijankumar7" target="_blank">
+  <a href="https://codeforces.com/profile/srijankumar7">
     <img src="https://img.shields.io/badge/Codeforces-Grinding-blue?style=for-the-badge&logo=codeforces" />
   </a>
-  <a href="https://kaggle.com/srijan%20kumar%200702" target="_blank">
+  <a href="https://kaggle.com/srijan%20kumar%200702">
     <img src="https://img.shields.io/badge/Kaggle-ML%20Arena-20BEFF?style=for-the-badge&logo=kaggle" />
   </a>
 </p>
@@ -55,11 +51,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srijan-kumar7&theme=radical&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=srijan-kumar7&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/srijan-kumar7/srijan-kumar7/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/srijan-kumar7/srijan-kumar7/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <pre>
