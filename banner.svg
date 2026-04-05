@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="400" viewBox="0 0 880 400">
+  <defs>
+    <style>
+      @keyframes glitchPulse {
+        0% { text-shadow: -2px 0 red, 2px 0 blue; opacity: 0.9; }
+        50% { text-shadow: 2px 0 red, -2px 0 blue; opacity: 1; }
+        100% { text-shadow: -2px 0 blue, 2px 0 red; opacity: 0.9; }
+      }
+      
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(-10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      
+      @keyframes scanMove {
+        0% { transform: translateY(-100%); }
+        100% { transform: translateY(100%); }
+      }
+      
+      @keyframes glowPulse {
+        0% { opacity: 0.3; }
+        50% { opacity: 0.8; }
+        100% { opacity: 0.3; }
+      }
+      
+      .title {
+        font-family: 'Courier New', monospace;
+        font-size: 28px;
+        font-weight: bold;
+        fill: #0f0;
+        animation: glitchPulse 3s infinite;
+      }
+      
+      .subtitle {
+        font-family: 'Courier New', monospace;
+        font-size: 14px;
+        fill: #6f6;
+      }
+      
+      .terminal-text {
+        font-family: 'Courier New', monospace;
+        font-size: 12px;
+        fill: #abffab;
+      }
+      
+      .prompt {
+        font-family: 'Courier New', monospace;
+        font-size: 12px;
+        fill: #ff5555;
+        font-weight: bold;
+      }
+      
+      .badge {
+        font-family: 'Courier New', monospace;
+        font-size: 10px;
+        fill: #ff7777;
+      }
+      
+      .badge-bg {
+        fill: #000000aa;
+        stroke: #ff4444;
+        stroke-width: 1;
+      }
+      
+      .card-bg {
+        fill: rgba(8, 14, 10, 0.75);
+        stroke: #2aff6e33;
+        stroke-width: 1;
+        rx: 8;
+      }
+      
+      .card-bg:hover {
+        stroke: #66ff66;
+        filter: drop-shadow(0 0 4px #00ff40);
+      }
+      
+      .scanline {
+        fill: rgba(0, 255, 0, 0.03);
+        animation: scanMove 8s linear infinite;
+      }
+      
+      .cursor {
+        animation: blink 1s step-end infinite;
+      }
+      
+      .glow {
+        animation: glowPulse 2s infinite;
+      }
+      
+      .skill-text {
+        font-family: 'Courier New', monospace;
+        font-size: 11px;
+        fill: #b0ffb0;
+      }
+      
+      a {
+        cursor: pointer;
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="880" height="400" fill="#0a0f0f" rx="10"/>
+  <rect width="880" height="400" fill="url(#bgGradient)" opacity="0.5"/>
+  
+  <radialGradient id="bgGradient" cx="20%" cy="30%">
+    <stop offset="0%" stop-color="#0a1a0a"/>
+    <stop offset="100%" stop-color="#030505"/>
+  </radialGradient>
+  
+  <!-- Matrix code rain effect (static but visual) -->
+  <g opacity="0.15">
+    <text x="20" y="50" fill="#0f0" font-size="10" font-family="monospace">010011</text>
+    <text x="60" y="80" fill="#0f0" font-size="10" font-family="monospace">101001</text>
+    <text x="100" y="120" fill="#0f0" font-size="10" font-family="monospace">110100</text>
+    <text x="150" y="60" fill="#0f0" font-size="10" font-family="monospace">001011</text>
+    <text x="200" y="140" fill="#0f0" font-size="10" font-family="monospace">111000</text>
+    <text x="300" y="90" fill="#0f0" font-size="10" font-family="monospace">010101</text>
+    <text x="400" y="130" fill="#0f0" font-size="10" font-family="monospace">101010</text>
+    <text x="500" y="70" fill="#0f0" font-size="10" font-family="monospace">110011</text>
+    <text x="600" y="110" fill="#0f0" font-size="10" font-family="monospace">001100</text>
+    <text x="700" y="50" fill="#0f0" font-size="10" font-family="monospace">111111</text>
+    <text x="800" y="100" fill="#0f0" font-size="10" font-family="monospace">000000</text>
+    <text x="850" y="160" fill="#0f0" font-size="10" font-family="monospace">101101</text>
+  </g>
+  
+  <!-- Scanline effect -->
+  <rect class="scanline" width="880" height="20" y="-20" opacity="0.1"/>
+  
+  <!-- Header Section -->
+  <text x="440" y="45" text-anchor="middle" class="title">⚡ SRIJAN KUMAR ⚡</text>
+  <text x="440" y="70" text-anchor="middle" class="subtitle">{ Code • Break • Learn • Repeat }</text>
+  
+  <!-- Badge -->
+  <rect x="320" y="80" width="240" height="22" class="badge-bg" rx="4"/>
+  <text x="440" y="95" text-anchor="middle" class="badge">
+    <tspan>🔒 ID: SRIJAN-KUMAR7</tspan>
+  </text>
+  
+  <!-- Profile Hit Counter (static) -->
+  <text x="440" y="125" text-anchor="middle" font-family="monospace" font-size="11" fill="#ff6666">
+    📊 PROFILE HITS: 1,337+
+  </text>
+  
+  <!-- WHOAMI Card -->
+  <rect x="20" y="145" width="400" height="180" class="card-bg"/>
+  <text x="35" y="165" class="prompt">$&gt; whoami</text>
+  <text x="35" y="185" class="terminal-text">🎓 B.Tech Engineering &amp; Computational Mechanics</text>
+  <text x="35" y="205" class="terminal-text">🧠 Machine Learning &amp; Computer Vision — Weaponized AI</text>
+  <text x="35" y="225" class="terminal-text">💻 Full-Stack Developer | System-level thinker</text>
+  <text x="35" y="245" class="terminal-text">🔒 Exploit chaser | Secure code architect</text>
+  <text x="35" y="265" class="terminal-text">⚡ Debugging at 2AM: mandatory ritual</text>
+  
+  <text x="35" y="290" class="prompt">$&gt; current_focus --show</text>
+  
+  <!-- Focus badges -->
+  <rect x="35" y="298" width="110" height="18" fill="#1a1a1a" stroke="#ff4444" stroke-width="0.5" rx="3"/>
+  <text x="90" y="311" text-anchor="middle" font-family="monospace" font-size="9" fill="#ff7777">🧠 ML/AI systems</text>
+  
+  <rect x="150" y="298" width="120" height="18" fill="#1a1a1a" stroke="#ff4444" stroke-width="0.5" rx="3"/>
+  <text x="210" y="311" text-anchor="middle" font-family="monospace" font-size="9" fill="#ff7777">👁️ Computer Vision</text>
+  
+  <rect x="275" y="298" width="135" height="18" fill="#1a1a1a" stroke="#ff4444" stroke-width="0.5" rx="3"/>
+  <text x="342" y="311" text-anchor="middle" font-family="monospace" font-size="9" fill="#ff7777">⚡ Scalable full-stack</text>
+  
+  <!-- Right Panel - ASCII Art -->
+  <rect x="435" y="145" width="425" height="180" class="card-bg"/>
+  <text x="455" y="170" font-family="monospace" font-size="10" fill="#3eff3e" white-space="pre">
+    <tspan x="455" dy="0">   ┌─[┐]──[Srijan@cybercore]──[~]</tspan>
+    <tspan x="455" dy="16">   └──╼  $&gt; ls -la exploits/</tspan>
+    <tspan x="455" dy="16">   -rwx--x--x 1 root root 1337 Jan 01 2024  payload.bin</tspan>
+    <tspan x="455" dy="16">   drwxr-xr-x 2 0x7f3 0x7f3 4096 Feb 14 2024  stealth_kit</tspan>
+    <tspan x="455" dy="20">   💀 ⚡ 🕸️</tspan>
+  </text>
+  
+  <!-- Tech Stack Section -->
+  <rect x="20" y="340" width="840" height="50" class="card-bg"/>
+  <text x="35" y="358" class="prompt">🔧 weapon_arsenal --tech-stack</text>
+  <text x="35" y="378" class="skill-text">
+    C • C++ • Python • JavaScript • HTML • CSS • React • Redux • OpenCV • Git • Linux • Figma
+  </text>
+  
+  <!-- Bottom Links -->
+  <text x="440" y="390" text-anchor="middle" font-family="monospace" font-size="10" fill="#6eff6e">
+    <tspan text-decoration="underline">[Codeforces]</tspan> • <tspan text-decoration="underline">[Kaggle]</tspan> • <tspan text-decoration="underline" fill="#ff6666">[HACKER_MODE: ACTIVE]</tspan>
+  </text>
+</svg>
