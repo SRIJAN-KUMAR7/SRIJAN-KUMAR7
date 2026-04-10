@@ -1,79 +1,108 @@
-<h1 align="center">⚡ Srijan Kumar ⚡</h1>
+<h1 align="center"> Srijan Kumar </h1>
 <h3 align="center">Code • Break • Learn • Repeat</h3>
 
+
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://codeforces.com/profile/srijankumar7">
+    <img src="https://img.shields.io/badge/Codeforces-Grinding-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/srijan%20kumar%200702">
+    <img src="https://img.shields.io/badge/Kaggle-ML%20Arena-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/srijan-kumar7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:srijan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+![](https://github.com/Sejal1711/Sejal1711/blob/main/header.png?raw=true)
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srijan-kumar7&label=PROFILE+HITS&color=red&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Engineering+Mind+%7C+Hacker+Soul;ML+Enthusiast+%7C+Full+Stack+Developer;Building+systems+that+scale;Eat+Code+Sleep+Debug+Repeat" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Engineering+Mind+%7C+Hacker+Soul;ML+Enthusiast+%7C+Full+Stack+Developer;Computer+Vision+%7C+AI+Systems+Builder;Building+systems+that+scale+%F0%9F%9A%80;Eat+Code+Sleep+Debug+Repeat" />
 </p>
 
-<img align="right" alt="coding" width="420" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif"/>
+---
 
-<p><b>&gt; identity --whoami</b></p>
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif"/>
 
-<ul>
-<li>🎓 B.Tech in Engineering & Computational Mechanics</li>
-<li> Machine Learning & Computer Vision enthusiast</li>
-<li> Full-Stack Web Developer</li>
-<li> System-level thinker, building from scratch</li>
-<li> Competitive Programming | DSA | Algorithms</li>
-<li> Debugging at 2 AM is expected</li>
-</ul>
+```bash
+$ identity --whoami
+```
 
-<p><b>&gt; current_focus</b></p>
+- 🎓 **B.Tech** — Engineering & Computational Mechanics
+- 🤖 **ML & AI Systems** enthusiast
+- 👁️ **Computer Vision** pipelines & research
+- 🌐 **Full-Stack Web Developer**
+- ⚙️ **System-level thinker**, building from scratch
+- 🏆 **Competitive Programming** | DSA | Algorithms
+- ⚡ Debugging at 2 AM is expected
+- ☕ Fueled by coffee and curiosity
 
-<ul>
-<li>🧠 ML & AI systems</li>
-<li>👁️ Computer Vision pipelines</li>
-<li>⚡ Scalable full-stack apps</li>
-<li>🛠️ Backend APIs & architecture</li>
-<li>🔐 Security & low-level systems</li>
-</ul>
+```bash
+$ current_focus --list
+```
+
+- 🧠 Deep Learning & ML Systems
+- 👁️ Computer Vision with OpenCV
+- ⚡ Scalable Full-Stack Applications
+- 🛠️ Backend APIs & Architecture
+- 🔐 Security & Low-Level Systems
+- 🤖 Multi-Agent AI Orchestration
+
+---
+
+## 🛠️ Tech Arsenal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,redux,opencv,git,linux,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,express,fastapi,mongodb,postgresql,opencv,git,docker,linux,figma,html,css,vscode&theme=dark" />
 </p>
 
-<p align="left">
-  <a href="https://codeforces.com/profile/srijankumar7">
-    <img src="https://img.shields.io/badge/Codeforces-Grinding-blue?style=for-the-badge&logo=codeforces" />
-  </a>
-  <a href="https://kaggle.com/srijan%20kumar%200702">
-    <img src="https://img.shields.io/badge/Kaggle-ML%20Arena-20BEFF?style=for-the-badge&logo=kaggle" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijan-kumar7&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-kumar7&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+
+
+---
+
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srijan-kumar7&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srijan-kumar7/srijan-kumar7/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://streak-stats.demolab.com?user=srijan-kumar7&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF4500&currStreakLabel=00FF00" height="170" />
 </p>
 
-<pre>
-while(alive){
-    learn();
-    build();
-    break();
-    repeat();
+
+## The Loop I Live By
+
+```cpp
+while (alive) {
+    learn();      
+    build();      
+    break();     
+    repeat();    
 }
-</pre>
+```
+
+---
 
 <p align="center">
-⚠️ Curiosity-driven developer. Over-engineering is intentional.
+   <i>Curiosity-driven developer. Over-engineering is intentional.</i>
 </p>
+
+<h3 align="center"> Stay curious. Stay dangerous. ⚔️</h3>
 
 <p align="center">
-<a href="https://codeforces.com/profile/srijankumar7">Codeforces</a> •
-<a href="https://kaggle.com/srijan%20kumar%200702">Kaggle</a>
+  <a href="https://codeforces.com/profile/srijankumar7">Codeforces</a> •
+  <a href="https://kaggle.com/srijan%20kumar%200702">Kaggle</a> •
+  <a href="https://github.com/srijan-kumar7">GitHub</a>
 </p>
-
-<h3 align="center">⚔️ Stay curious. Stay dangerous. ⚔️</h3>
